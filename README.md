@@ -1,6 +1,4 @@
 
-# Hi there 👋
-
 <div>
   <img src="https://i.ibb.co/CtHBTxn/fronted.png" alt="">
 </div>
