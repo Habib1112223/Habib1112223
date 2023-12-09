@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div>
-  <img src="https://i.ibb.co/vXSt8P8/blog-3.jpg" alt="">
+  <img src="https://i.ibb.co/CtHBTxn/fronted.png" alt="">
 </div>
 ## There are important things
 
