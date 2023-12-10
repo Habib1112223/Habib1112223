@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://i.ibb.co/CtHBTxn/fronted.png" alt="">
+  <img src="https://i.ibb.co/h9Q5mwn/Purple-Modern-Gaming-Channel-Banner-Landscape.png" alt="">
 </div>
 <h1 align="center">Hi 👋, I'm Md.Habibur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
